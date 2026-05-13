@@ -1,0 +1,257 @@
+{
+    "nav": {
+        "brand_name": "Kuwait Tourism",
+        "home": "Home",
+        "categories": "Categories",
+        "experiences": "Experiences",
+        "map": "Map"
+    },
+    "hero": {
+        "subtitle": "Discover the Gulf",
+        "title": "Kuwait: Where Tradition Meets Tomorrow",
+        "description": "Experience the perfect blend of modern luxury and deep cultural heritage in the heart of the Arabian Peninsula.",
+        "cta": "Start Your Journey"
+    },
+    "categories": {
+        "title": "Explore by Category",
+        "description": "Find your perfect experience in Kuwait",
+        "view_all": "View All Categories",
+        "items": {
+            "all": "All",
+            "historical": "Historical",
+            "modern": "Modern",
+            "nature": "Nature & Resorts",
+            "shopping": "Shopping",
+            "dining": "Dining",
+            "arts": "Arts",
+            "religious": "Religious"
+        },
+        "page": {
+            "subtitle": "EXPLORE THE HERITAGE",
+            "title": "Discover the Soul of Kuwait",
+            "description": "From the bustling souqs of the past to the modern marvels of today, explore the hidden gems of the Gulf.",
+            "showing_results": "Showing {{count}} results",
+            "sort_by": "Sort by:",
+            "recommended": "Recommended",
+            "governorate": "Governorate",
+            "price_range": "Price Range",
+            "load_more": "Load More Attractions"
+        }
+    },
+    "experiences": {
+        "curated_badge": "Curated For You",
+        "title": "Featured Experiences",
+        "description": "Immerse yourself in the unique activities that make Kuwait unforgettable, from the desert to the sea.",
+        "more": "More",
+        "items": {
+            "grand_mosque": {
+                "title": "Grand Mosque Guided Tour",
+                "category": "Heritage",
+                "description": "Guided tour through the largest mosque in Kuwait, showcasing Islamic architecture and grandeur."
+            },
+            "failaka": {
+                "title": "Failaka Island Heritage",
+                "category": "History",
+                "description": "Explore the historical ruins and ancient Greek temples on this significant Kuwaiti island."
+            },
+            "mirror_house": {
+                "title": "Mirror House Art Gallery",
+                "category": "Culture",
+                "description": "Visit the world-renowned private museum entirely covered in intricate mirrored mosaics."
+            },
+            "salmi_desert": {
+                "title": "Al-Salmi Desert Stars",
+                "category": "Nature",
+                "description": "Experience a magical night of stargazing under the clear skies of the Kuwaiti desert."
+            },
+            "kuwait_towers": {
+                "title": "Kuwait Towers",
+                "category": "Modern",
+                "location": "Arabian Gulf Street, Sharq District, Kuwait City",
+                "rating": 4.8,
+                "reviews": "1,240 reviews",
+                "description": "An iconic symbol of modern Kuwait, offering panoramic views of the city and the Arabian Gulf.",
+                "details": {
+                    "opening_hours": "Daily: 8:00 AM - 11:00 PM",
+                    "entry_fee": "Adults: KD 3.000, Children (4-12): KD 1.500",
+                    "rating_summary": "4.8 (2.4k Reviews)",
+                    "about": "The Kuwait Towers are a group of three slender towers in Kuwait City, standing on a promontory into the Persian Gulf. They were the sixth, and last, group in the larger system of the Kuwait Water Towers of 33 towers, and were built in a style differing from the other five groups. The Kuwait Towers were officially inaugurated in March 1979 and are regarded as a landmark and symbol of modern Kuwait.",
+                    "about_extended": "The main tower is 187 metres (614 ft) high and carries two spheres. The lower sphere holds in its bottom half a water tank of 4,500 cubic metres and in its upper half there is a restaurant that accommodates 90 people, a café, a lounge and a reception hall. The upper sphere, which rises to 123 metres (404 ft) above sea level and completes a full turn every 30 minutes, holds a café.",
+                    "features": [],
+                    "nearby": [
+                        {
+                            "id": "mubarakiya",
+                            "title": "Souq Al-Mubarakiya",
+                            "distance": "2.3km away",
+                            "image": "/kuwait_historical_cat.png"
+                        },
+                        {
+                            "id": "grand_mosque",
+                            "title": "Grand Mosque",
+                            "distance": "1.8km away",
+                            "image": "/kuwait_grand_mosque.jpg"
+                        }
+                    ]
+                }
+            },
+            "mubarakiya": {
+                "title": "Souq Al-Mubarakiya",
+                "category": "Historical",
+                "location": "Kuwait City",
+                "rating": 4.9,
+                "reviews": "3,502 reviews",
+                "description": "Experience the traditional atmosphere, shop for spices, and enjoy authentic Kuwaiti cuisine."
+            },
+            "avenues": {
+                "title": "The Avenues",
+                "category": "Shopping",
+                "location": "Al Rai",
+                "rating": 4.7,
+                "reviews": "5,100 reviews",
+                "description": "The largest shopping mall in Kuwait, featuring international brands, theme parks, and cinema."
+            },
+            "grand_mosque_alt": {
+                "title": "Grand Mosque",
+                "category": "Religious",
+                "location": "Kuwait City",
+                "rating": 4.9,
+                "reviews": "980 reviews",
+                "description": "A stunning example of Islamic architecture, featuring intricate calligraphy and massive chandeliers."
+            },
+            "shaheed_park": {
+                "title": "Al Shaheed Park",
+                "category": "Nature",
+                "location": "Sharq",
+                "rating": 4.8,
+                "reviews": "2,150 reviews",
+                "description": "The largest urban park in Kuwait, offering beautiful landscapes, museums, and botanical gardens."
+            },
+            "scientific_center": {
+                "title": "The Scientific Center",
+                "category": "Edutainment",
+                "location": "Salmiya",
+                "rating": 4.6,
+                "reviews": "1,890 reviews",
+                "description": "Home to one of the largest aquariums in the Middle East, an IMAX theater, and interactive exhibits."
+            },
+            "al_boom": {
+                "title": "Al Boom Steak and Seafood Restaurant",
+                "category": "Dining",
+                "location": "Salmiya",
+                "rating": 4.9,
+                "reviews": "1,500 reviews",
+                "description": "Savor the charcoal-grilled seafood, steak and other specialties of Al Boom. Diners will want to experience this unique dining venue aboard a traditional Arabic dhow. Beautiful teak with gold-leaf accents gives this landlocked vessel the atmosphere of luxury sailing."
+            }
+        },
+        "reviews": {
+            "title": "Visitor Reviews",
+            "add_review": "Add a Review",
+            "login_to_review": "Please sign in to share your experience",
+            "rating_label": "Your Rating",
+            "comment_label": "Your Comment",
+            "comment_placeholder": "Share your thoughts about this place...",
+            "submit": "Post Review",
+            "no_reviews": "No reviews yet. Be the first to share your experience!",
+            "anonymous": "Anonymous Visitor"
+        }
+    },
+    "map": {
+        "badge": "Map",
+        "title": "Navigate the City's Landmarks",
+        "description": "Plan your itinerary with our interactive map. Discover hidden gems, find the best routes, and explore districts like a local.",
+        "cta": "Open Interactive Map",
+        "markers": {
+            "kuwait_towers": "Kuwait Towers",
+            "avenues": "The Avenues",
+            "mubarakiya": "Mubarakiya",
+            "shaheed_park": "Shaheed Park"
+        }
+    },
+    "footer": {
+        "description": "The official guide to exploring the hidden gems of the Gulf. Experience tradition, luxury, and adventure.",
+        "explore": "Explore",
+        "featured": "Featured Experiences",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    },
+    "auth": {
+        "layout": {
+            "title": "Discover the Heart \nof the Gulf",
+            "description": "From the iconic towers to the hidden gems of the souq, start your journey here.",
+            "copyright": "© 2026 Kuwait Tourism Authority. All rights reserved."
+        },
+        "login": {
+            "title": "Welcome back",
+            "description": "Please enter your details to sign in to your account.",
+            "email_label": "Email Address",
+            "email_placeholder": "e.g. tourist@example.com",
+            "password_label": "Password",
+            "password_placeholder": "••••••••",
+            "submit": "Sign In",
+            "signing_in": "Signing in...",
+            "error_invalid": "Invalid email or password.",
+            "no_account": "Don't have an account?",
+            "signup_link": "Sign up for free"
+        },
+        "signup": {
+            "title": "Create an account",
+            "description": "Sign up to start your journey through the hidden gems of Kuwait.",
+            "name_label": "Full Name",
+            "name_placeholder": "e.g. Abdullah Alhammadi",
+            "email_label": "Email Address",
+            "email_placeholder": "e.g. tourist@example.com",
+            "password_label": "Password",
+            "password_placeholder": "••••••••",
+            "confirm_password_label": "Confirm Password",
+            "confirm_password_placeholder": "••••••••",
+            "submit": "Create Account",
+            "creating_account": "Creating account...",
+            "error_passwords_mismatch": "Passwords do not match.",
+            "error_signup_failed": "Signup failed. Email might already be in use.",
+            "has_account": "Already have an account?",
+            "login_link": "Sign in"
+        }
+    },
+    "profile": {
+        "sidebar": {
+            "dashboard": "Dashboard",
+            "profile": "Profile",
+            "favorites": "Favorites",
+            "reviews": "Reviews",
+            "saved_attractions": "Saved Attractions",
+            "settings": "Settings",
+            "signout": "Signout",
+            "member_since": "Member since {{year}}",
+            "rank": "Desert Explorer Lvl 2"
+        },
+        "dashboard": {
+            "greeting": "Marhaba, {{name}}! 👋",
+            "subtitle": "Explore and manage your favorite attractions in the heart of Kuwait.",
+            "stats": {
+                "upcoming_trips": "Upcoming Trips",
+                "places_visited": "Places Visited",
+                "saved_places": "Saved Places",
+                "total_reviews": "Total Reviews",
+                "reviews_posted": "Reviews Posted"
+            },
+            "saved_attractions": {
+                "title": "Saved Attractions",
+                "view_details": "DETAILS",
+                "no_favorites": "No favorites yet",
+                "explore_btn": "Explore Attractions"
+            },
+            "reviews": {
+                "title": "My Reviews",
+                "no_reviews": "You haven't written any reviews yet.",
+                "edit": "Edit",
+                "delete": "Delete"
+            },
+            "settings": {
+                "title": "Settings",
+                "language": "Application Language",
+                "danger_zone": "Danger Zone",
+                "delete_account": "Delete Account Permanently"
+            }
+        }
+    }
+}
